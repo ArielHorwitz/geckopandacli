@@ -7,7 +7,9 @@ cargo build --release
 TEMPFILE="target/README.md"
 exec &> $TEMPFILE
 
-echo '# GeckoPanda CLI app
+echo '# GeckoPanda CLI
+
+CLI frontend for [geckopanda](https://github.com/ArielHorwitz/geckopanda).
 ```'
 target/release/geckopanda -h
 echo '```'

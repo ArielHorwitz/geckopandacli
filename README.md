@@ -1,4 +1,6 @@
-# GeckoPanda CLI app
+# GeckoPanda CLI
+
+CLI frontend for [geckopanda](https://github.com/ArielHorwitz/geckopanda).
 ```
 Manage files backed up to Google Drive.
 
