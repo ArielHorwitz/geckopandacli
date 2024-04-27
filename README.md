@@ -18,6 +18,11 @@ Options:
   -V, --version  Print version
 ```
 
+## Installation
+Download the app from the [releases page](
+https://github.com/ArielHorwitz/geckopandacli/releases/) and place it in a
+directory that is in your PATH (e.g. `/usr/bin`).
+
 ## Build from source
 Create your Google Cloud `oauth2` [client secret](
 https://console.cloud.google.com/apis/credentials) and download the client
